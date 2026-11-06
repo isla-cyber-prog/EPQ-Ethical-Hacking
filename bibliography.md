@@ -18,3 +18,11 @@ Octopus (n.d.) *Legal and Ethical Boundaries in Cyber Security*. Available at: h
 
 BitSight (n.d.) *What Point-in-Time Tests Miss*. Available at: https://www.bitsight.com/guides/penetration-testing-vs-continuous-security-monitoring-what-point-in-time-tests-miss (Accessed: 6 November 2026).
 
+## Additional Research
+
+- Verizon Data Breach Investigations Report (DBIR)
+- TryHackMe Practical Investigation
+  - Nmap
+  - OWASP Top 10
+  - Offensive Security Intro
+  - Defensive Security Intro
