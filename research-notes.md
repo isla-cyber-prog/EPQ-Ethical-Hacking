@@ -1,5 +1,42 @@
 # Research Notes
 
+## Source Notes
+
+### Ethical Hacking: A Proactive Approach to Cyber Security
+
+Key Points:
+- Defines ethical hacking.
+- Explains penetration testing.
+- Discusses organisational benefits.
+
+Usefulness:
+Useful for explaining the role of ethical hackers and introducing penetration testing.
+
+---
+
+### A Survey on Ethical Hacking: Tools, Techniques and Challenges
+
+Key Points:
+- Reviews common ethical hacking tools.
+- Explains methodologies and challenges.
+- Discusses limitations of security testing.
+
+Usefulness:
+Useful when evaluating the strengths and weaknesses of penetration testing.
+
+---
+
+### Ethical Hacking and its Role in Cybersecurity
+
+Key Points:
+- Examines ethical hacking within modern cybersecurity.
+- Explains defensive applications.
+
+Usefulness:
+Useful for discussing the relationship between ethical hacking and cybersecurity strategies.
+
+---
+
 ## Penetration Testing
 
 Penetration testing is an authorised simulation of a cyber-attack carried out to identify vulnerabilities before malicious attackers can exploit them.
