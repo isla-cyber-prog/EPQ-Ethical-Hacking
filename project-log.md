@@ -1,7 +1,5 @@
 # Project Log
 
-## Week 1
-
 ### Log 1 - Initial Ideas
 
 - Explored possible EPQ topics.
