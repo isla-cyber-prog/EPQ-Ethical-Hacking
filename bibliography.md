@@ -21,6 +21,7 @@ BitSight (n.d.) *What Point-in-Time Tests Miss*. Available at: https://www.bitsi
 ## Additional Research
 
 - Verizon Data Breach Investigations Report (DBIR)
+- Binance Cyberattack 2026 case study
 - TryHackMe Practical Investigation
   - Nmap
   - OWASP Top 10
