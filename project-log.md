@@ -48,3 +48,22 @@ One of the most valuable developments during this stage was analysing Verizon DB
 I also completed practical TryHackMe activities, which improved my understanding of how penetration testing works in practice. This helped me connect academic theories with real techniques used by security professionals. Researching a recent cybersecurity case study further demonstrated how organisations face a range of threats that cannot always be prevented by a single security measure.
 
 As my research progressed, I became increasingly aware that penetration testing works most effectively when combined with other security controls. While it remains an important method for identifying vulnerabilities, many sources argue that continuous monitoring, employee training and access control policies are also essential. This suggests that my final conclusion may focus on penetration testing as one key component of a wider cybersecurity strategy rather than a standalone solution.
+
+### Log 3 - Supervisor Proposal Approval
+
+## Activities Completed
+
+- Received supervisor approval for the EPQ proposal.
+- Discussed the feasibility and scope of the project.
+- Reviewed the strengths and limitations of the planned research methods.
+- Considered opportunities for collecting primary research.
+- Confirmed that the project can be completed within the planned timescale.
+- Refined research objectives following supervisor feedback.
+
+### Reflection
+
+My supervisor approved the proposal and agreed that the research question is suitable for an EPQ. During our discussion, we reviewed my planned sources and research methods. Feedback highlighted that my secondary research base is strong, but that obtaining primary research may be more challenging. As a result, I began considering the possibility of interviewing cybersecurity or IT professionals to strengthen the project.
+
+The meeting also confirmed that the project is achievable within the available timescale because I had already spent significant time narrowing the focus from ethical hacking in general to penetration testing. This reassurance helped me feel more confident about the scope of the project and the research plan moving forward.
+
+The feedback reinforced the importance of gathering a range of perspectives and continuing to evaluate penetration testing alongside other cybersecurity measures rather than viewing it as a standalone solution.
