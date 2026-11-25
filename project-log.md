@@ -67,3 +67,62 @@ My supervisor approved the proposal and agreed that the research question is sui
 The meeting also confirmed that the project is achievable within the available timescale because I had already spent significant time narrowing the focus from ethical hacking in general to penetration testing. This reassurance helped me feel more confident about the scope of the project and the research plan moving forward.
 
 The feedback reinforced the importance of gathering a range of perspectives and continuing to evaluate penetration testing alongside other cybersecurity measures rather than viewing it as a standalone solution.
+
+### Log 4 - Planning Review
+
+### Current Progress
+Following approval of my project proposal, I reviewed the research completed so far and began planning the structure of my final essay.
+
+Research completed includes:
+- Source evaluations
+- Practical investigation using TryHackMe
+- Independent analysis of Verizon DBIR data
+- Research into the 2026 Binance cyberattack case study
+
+### Planning Decisions
+To answer my research question effectively, I decided to organise my evidence around the project objectives. This will help ensure that each section of the essay contributes directly to the overall investigation.
+
+The essay will focus on:
+- What penetration testing is
+- The strengths and limitations of penetration testing
+- Legal and ethical considerations
+- Comparisons with other cyber security measures
+- Evaluation of practical and real-world evidence
+
+### Resources
+The project will draw upon:
+- Academic and industry sources
+- Source evaluations
+- TryHackMe practical investigation
+- Verizon DBIR analysis
+- Binance cyberattack case study
+- Production logs and project journal
+
+### Action Plan
+
+#### November
+- Finalise project objectives
+- Complete overall essay structure
+
+#### December
+- Create detailed essay plan
+- Organise research and evidence
+
+#### December-January
+- Draft the main essay sections
+- Develop analysis of benefits and limitations
+
+#### January-February
+- Improve evaluation and analysis
+- Refine the structure of the essay
+
+#### February onwards
+- Continue improving the essay
+- Review conclusions using the evidence collected
+- Prepare final submission materials
+
+### Time Management
+I will use a Gantt chart to monitor progress and deadlines throughout the project. Production logs and journal entries will be updated regularly to record developments and reflections. All research notes, source evaluations and project documents will be stored digitally for easy access during the writing process.
+
+### Reflection
+This planning stage has helped me develop a clearer structure for the project. I now have a better understanding of how the different sources, investigations and case studies can be combined to answer my research question in a logical and evidence-based way.
