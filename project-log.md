@@ -70,59 +70,125 @@ The feedback reinforced the importance of gathering a range of perspectives and 
 
 ### Log 4 - Planning Review
 
-### Current Progress
-Following approval of my project proposal, I reviewed the research completed so far and began planning the structure of my final essay.
+## Current Progress
 
-Research completed includes:
-- Source evaluations
+Following approval of my project proposal, I reviewed the research and evidence completed so far and began planning the structure of my final essay.
+
+Research completed to date includes:
+
+- Six source evaluations
 - Practical investigation using TryHackMe
 - Independent analysis of Verizon DBIR data
 - Research into the 2026 Binance cyberattack case study
+- Initial project objectives and research question
 
-### Planning Decisions
-To answer my research question effectively, I decided to organise my evidence around the project objectives. This will help ensure that each section of the essay contributes directly to the overall investigation.
+This research has provided a foundation for answering my project question:
 
-The essay will focus on:
-- What penetration testing is
-- The strengths and limitations of penetration testing
-- Legal and ethical considerations
-- Comparisons with other cyber security measures
-- Evaluation of practical and real-world evidence
+> To what extent is penetration testing the most effective way to protect companies from cyberattacks?
 
-### Resources
-The project will draw upon:
-- Academic and industry sources
-- Source evaluations
-- TryHackMe practical investigation
+---
+
+## Planning the Essay Structure
+
+To ensure the project remains focused, I have planned the essay around my project objectives.
+
+### Introduction
+- Research question
+- Importance of the topic
+- Overview of the investigation
+
+### Objective 1: What is Penetration Testing?
+- Definition and purpose
+- Techniques and processes
+- Role in modern cyber security
+
+### Objective 2: Benefits of Penetration Testing
+- Identifying vulnerabilities
+- Proactive security improvements
+- Simulating realistic attacks
+
+### Objective 3: Limitations of Penetration Testing
+- Point-in-time nature of assessments
+- Human factors and social engineering
+- Emerging threats and changing vulnerabilities
+
+### Objective 4: Comparison with Other Security Measures
+- Multi-factor authentication
+- Security monitoring
+- Access controls
+- Security awareness training
+- Incident response systems
+
+### Objective 5: Legal and Ethical Considerations
+- Permission and authorisation
+- Responsible disclosure
+- Ethical boundaries
+- Relevant cyber security legislation
+
+### Objective 6: Practical Investigation and Real-World Evidence
+- TryHackMe investigation
 - Verizon DBIR analysis
 - Binance cyberattack case study
-- Production logs and project journal
 
-### Action Plan
+### Objective 7: Overall Evaluation and Judgement
+- Weighing strengths against limitations
+- Evaluating evidence from all sources
+- Reaching a balanced conclusion
 
-#### November
+---
+
+## Resources
+
+The main resources I will use include:
+
+- Evaluated academic and industry sources
+- TryHackMe practical investigation
+- Verizon DBIR data analysis
+- Binance cyberattack case study
+- Project journal entries
+- Production logs
+- Essay planning documents
+
+---
+
+## Action Plan and Deadlines
+
+### November
 - Finalise project objectives
 - Complete overall essay structure
 
-#### December
-- Create detailed essay plan
-- Organise research and evidence
+### December
+- Complete detailed essay plan
+- Organise evidence under each objective
 
-#### December-January
-- Draft the main essay sections
-- Develop analysis of benefits and limitations
+### December - January
+- Draft main essay sections
+- Integrate academic, practical and independent research
 
-#### January-February
-- Improve evaluation and analysis
-- Refine the structure of the essay
+### January - February
+- Strengthen evaluation and analysis
+- Refine structure and argument
 
-#### February onwards
+### February Onwards
 - Continue improving the essay
-- Review conclusions using the evidence collected
+- Review conclusions against evidence collected
 - Prepare final submission materials
 
-### Time Management
-I will use a Gantt chart to monitor progress and deadlines throughout the project. Production logs and journal entries will be updated regularly to record developments and reflections. All research notes, source evaluations and project documents will be stored digitally for easy access during the writing process.
+### Final Submission Stage
+- Complete presentation
+- Final review and evaluation
+- Submit completed project
 
-### Reflection
-This planning stage has helped me develop a clearer structure for the project. I now have a better understanding of how the different sources, investigations and case studies can be combined to answer my research question in a logical and evidence-based way.
+---
+
+## Time Management
+
+To manage the project alongside my A-Level studies, I will use a Gantt chart to monitor deadlines and track progress. I will continue updating production logs and journal entries to record developments and reflections throughout the project.
+
+All research notes, source evaluations and project documents will be stored digitally so that evidence can be accessed efficiently during the writing process.
+
+---
+
+## Reflection
+
+This planning stage helped me organise my research more effectively and develop a clearer structure for the final essay. I have identified how each source, investigation and case study will contribute to answering the research question. Moving forward, I need to ensure that the project evaluates both the strengths and limitations of penetration testing so that my final conclusion is balanced and evidence-based.
