@@ -1,6 +1,6 @@
 # EPQ: Ethical Hacking and Cybersecurity
 
-This repository contains research notes, resources and documentation used during my EPQ project investigating ethical hacking and cybersecurity.
+This repository contains research notes, sources, project documentation and supporting materials used during my EPQ investigating penetration testing and cybersecurity.
 
 ## Research Question
 
