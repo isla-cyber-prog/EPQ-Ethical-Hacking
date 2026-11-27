@@ -192,3 +192,6 @@ All research notes, source evaluations and project documents will be stored digi
 ## Reflection
 
 This planning stage helped me organise my research more effectively and develop a clearer structure for the final essay. I have identified how each source, investigation and case study will contribute to answering the research question. Moving forward, I need to ensure that the project evaluates both the strengths and limitations of penetration testing so that my final conclusion is balanced and evidence-based.
+
+<img width="341" height="407" alt="Screenshot 2026-11-24 195628" src="https://github.com/user-attachments/assets/cee29986-bb0a-4c7c-a6c0-3f1c88a44f23" />
+
